@@ -7,4 +7,4 @@ function malvinid(num = 4) {
   }
   return result;
 }
-module.exports = {GoJoid};
+module.exports = {malvinid};
